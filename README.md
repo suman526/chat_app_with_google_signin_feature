@@ -1,7 +1,7 @@
 # chat_app
 
 Demo of chat app:
-- [Visit this url](https://drive.google.com/file/d/1mDIxpi6YhE82EHp-U9OG_bzQmCLQ0sb_/view)
+- [https://drive.google.com/file/d/1mDIxpi6YhE82EHp-U9OG_bzQmCLQ0sb_/view](https://drive.google.com/file/d/1mDIxpi6YhE82EHp-U9OG_bzQmCLQ0sb_/view)
 
 A new Flutter project.
 
